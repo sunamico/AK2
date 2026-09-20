@@ -1,44 +1,4 @@
-    1  mkdir Lab1GraphicsMac
-    2  cd Lab1GraphicsMac
-    3  dotnet new console
-    4  dotnet new console
-    5  /usr/local/share/dotnet/dotnet --version
-    6  dotnet new console
-    7  cd Lab1GraphicsMac\ndotnet new console
-    8  dotnet run
-    9  dotnet run
-   10  dotnet run
-   11  sudo ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/dotnet
-   12  php -v
-   13  brew install php
-   14  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-   15  brew install php
-   16  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/ruslanasavchenko/.zprofile
-   17  eval "$(/opt/homebrew/bin/brew shellenv)"
-   18  brew install php
-   19  php -v
-   20  mkdir practicum01\ncd practicum01
-   21  code .
-   22  php -S localhost:8000
-   23  sysctl -n hw.physicalcpu hw.logicalcpu
-   24  javac Lab1.java Data.java
-   25  java Lab1
-   26  javac Lab1.java
-   27  java Lab1
-   28  java Lab1
-   29  java Lab1
-   30  java -XX:ActiveProcessorCount=5 Lab1
-   31  java -XX:ActiveProcessorCount=5 Lab1
-   32  java -XX:ActiveProcessorCount=1 Lab1
-   33  java -XX:ActiveProcessorCount=3 Lab1
-   34  git init
-   35  git add .
-   36  git commit -m "Виконання лабораторної роботи №1"
-   37  git branch -M main
-   38  git remote add origin https://github.com/sunamico/Front-end.git
-   39  git push -u origin main
-   40  git push -u origin main
-   41  git push -u origin main
+
    42  uname -a
    43  apt update
    44  cat /etc/apt/sources.list
