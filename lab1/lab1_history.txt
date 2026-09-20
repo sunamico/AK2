@@ -1,0 +1,145 @@
+    1  mkdir Lab1GraphicsMac
+    2  cd Lab1GraphicsMac
+    3  dotnet new console
+    4  dotnet new console
+    5  /usr/local/share/dotnet/dotnet --version
+    6  dotnet new console
+    7  cd Lab1GraphicsMac\ndotnet new console
+    8  dotnet run
+    9  dotnet run
+   10  dotnet run
+   11  sudo ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/dotnet
+   12  php -v
+   13  brew install php
+   14  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   15  brew install php
+   16  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/ruslanasavchenko/.zprofile
+   17  eval "$(/opt/homebrew/bin/brew shellenv)"
+   18  brew install php
+   19  php -v
+   20  mkdir practicum01\ncd practicum01
+   21  code .
+   22  php -S localhost:8000
+   23  sysctl -n hw.physicalcpu hw.logicalcpu
+   24  javac Lab1.java Data.java
+   25  java Lab1
+   26  javac Lab1.java
+   27  java Lab1
+   28  java Lab1
+   29  java Lab1
+   30  java -XX:ActiveProcessorCount=5 Lab1
+   31  java -XX:ActiveProcessorCount=5 Lab1
+   32  java -XX:ActiveProcessorCount=1 Lab1
+   33  java -XX:ActiveProcessorCount=3 Lab1
+   34  git init
+   35  git add .
+   36  git commit -m "Виконання лабораторної роботи №1"
+   37  git branch -M main
+   38  git remote add origin https://github.com/sunamico/Front-end.git
+   39  git push -u origin main
+   40  git push -u origin main
+   41  git push -u origin main
+   42  uname -a
+   43  apt update
+   44  cat /etc/apt/sources.list
+   45  sudo apt install vim
+   46  cd ~
+   47  cd ~/Downloads
+   48  man ls
+   49  ls -l
+   50  dpkg -i package.deb
+   51  sudo dpkg -i package.deb
+   52  cd /
+   53  sudo -i
+   54  echo "hi all"
+   55  nano task_variant1.sh
+   56  uname -a
+   57  apt update
+   58  cat /etc/apt/sources.list
+   59  sudo apt install vim
+   60  cd ~
+   61  cd ~/Downloads
+   62  man ls
+   63  ls -l
+   64  dpkg -i package.deb
+   65  sudo dpkg -i package.deb
+   66  cd /
+   67  sudo -i
+   68  echo "hi all"
+   69  echo "$PWD hi all here\!"
+   70  touch hi.sh
+   71  echo $PATH
+   72  vi hi.sh
+   73  ./hi.sh
+   74  chmod a+x hi.sh
+   75  cd ~
+   76  touch hi.sh
+   77  ls hi.sh
+   78  echo $PATH
+   79  vi hi.sh
+   80  ./hi.sh
+   81  chmod a+x hi.sh
+   82  chmod 777 hi.sh
+   83  ./hi.sh
+   84  ./hi.sh Ukraine
+   85  mkdir -p scripts && cp hi.sh scripts/
+   86  cp scripts Documents
+   87  cp -r scripts Documents
+   88  cd scripts
+   89  mv hi.sh ..
+   90  cd ..
+   91  rm scripts
+   92  rm -r scripts
+   93  cd /bin
+   94  ls -l
+   95  cd ../..
+   96  mkdir -p scripts && tar -cvzf scripts.tar.gz scripts
+   97  cat hi.sh
+   98  cat /var/log/system.log
+   99  tail -n 20 /var/log/system.log
+  100  less /var/log/system.log
+  101  cd /
+  102  find . -name dhcp
+  103  find . -name "*dhcp*"
+  104  find . -name "*dhcp*" | grep -i --color=always dhcp
+  105  find . -name "*dhcp*" | grep -i --color=always etc
+  106  ping google.com
+  107  ping google.com > ping.log &
+  108  sudo ping google.com
+  109  vlc &
+  110  ls -l
+  111  cd /bin
+  112  ls
+  113  echo $PATH
+  114  env
+  115  whoami
+  116  cd /etc
+  117  ls
+  118  cd ..
+  119  cd lib
+  120  ls
+  121  dmesg
+  122  sudo dmesg
+  123  ls /dev
+  124  sudo dmesg -c
+  125  dmesg | tail
+  126  df -h
+  127  cd /home
+  128  ls -l
+  129  lsmod
+  130  cd /proc
+  131  cat /proc/cpuinfo
+  132  echo 1 > /proc/sys/net/ipv4/ip_forward
+  133  echo 1 > /proc/sys/net/ipv4/ip_forward
+  134  sudo -i
+  135  cd ~
+  136  echo "vika" > 1.txt
+  137  cat 1.txt
+  138  echo "vasya" > 2.txt
+  139  cat 2.txt
+  140  diff 1.txt 2.txt
+  141  history
+  142  lspci
+  143  history > history.txt
+  144  whoami; date; history | tail -n 10
+  145  history > lab1_history.txt

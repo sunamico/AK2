@@ -1,0 +1,16 @@
+   50  dpkg -i package.deb
+   51  sudo dpkg -i package.deb
+   52  cd /
+   53  sudo -i
+   54  echo "hi all"
+   55  nano task_variant1.sh
+   56  fg
+   57  ps aux | grep ping
+   58  kill -15 12064
+   59  ping google.com > /dev/null &
+   60  ps aux | grep ping
+   61  kill -21146
+   62  kill -15 21146
+   63  ps aux | grep ping
+   64  kill -9 13235
+   65  sudo killall vlc
