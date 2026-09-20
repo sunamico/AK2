@@ -4,7 +4,7 @@
 ## Перевірив: Каплунов А.В.
 ___
 
-## 📌 Коротко про завдання
+## 📌 Виконання лабораторної роботи
 * **Завдання 1.1:** Відпрацювання базових команд UNIX/Linux у терміналі macOS та збереження історії дій.
 <img width="628" height="202" alt="image" src="https://github.com/user-attachments/assets/493b25ac-7ae5-4bd5-bf7f-b8a0e9a0d7a4" />
 <img width="569" height="201" alt="image" src="https://github.com/user-attachments/assets/101668df-7549-46ad-a35e-fc7783412c36" />
